@@ -2,7 +2,7 @@
 # ignore these folders
 /checkpoint
 /data
-/input
+# /input
 /output
 /temp
 /wandb
